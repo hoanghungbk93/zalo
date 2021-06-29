@@ -1,0 +1,19 @@
+{"qa_turn1": {
+  "SCO": "liệt kê tất cả số bàn thắng.",
+  "PSI": "liệt kê tất cả cầu thủ thay thế.", 
+  "PSO": "liệt kê tất cả cầu thủ ra sân.",
+  "TSI": "liệt kê tất cả thời gian vào sân.",
+  "PSC": "liệt kê tất cả cầu thủ ghi bàn.",
+  "TSC": "liệt kê tất cả thời gian ghi bàn.",
+  "CLU":"liệt kê tất cả câu lạc bộ.",
+  "PCA": "liệt kê tất cả cầu thủ nhận thẻ.",
+  "TCA": "liệt kê tất cả thời gian nhận thẻ."}, 
+ "qa_turn2": {
+ "('CLU', 'COMP', 'CLU')": "câu lạc bộ XXX đấu với câu lạc bộ nào?.",
+ "('CLU', 'SCOC', 'SCO')": "câu lạc bộ XXX đạt được bao nhiêu bàn thắng?.",
+ "('PSC', 'SCOP', 'CLU')": "cầu thủ XXX lập công cho câu lạc bộ nào?.",
+ "('PSC', 'SCOT', 'TSC')": "cầu thủ XXX lập công tại thời gian nào?",
+ "('PCA', 'CARP', 'CLU')": "cầu thủ XXX nhận thẻ thuộc câu lạc bộ nào?",
+ "('PCA', 'CART', 'TCA')": "cầu thủ XXX nhận thẻ tại thời gian nào?",
+ "('PSI', 'SUBP', 'PSO')": "cầu thủ XXX thay thế cho cầu thủ nào?",
+ "('PSI', 'SUBT', 'TSI')": "cầu thủ XXX vào sân tại thời gian nào?"}}
